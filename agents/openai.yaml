@@ -1,0 +1,13 @@
+interface:
+  display_name: ScienceBroadcast 科普视频工坊
+  short_description: 研究高热度科普案例，生成多风格脚本分镜与视频制作方案，持续复盘迭代
+  default_prompt: 使用 $sciencebroadcast-video 为我筛选科普选题，并制作一条几何推演风格的60秒视频。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

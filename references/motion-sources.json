@@ -1,0 +1,45 @@
+{
+  "checked_on": "2026-11-07",
+  "scope": "repository metadata and exact skill paths verified; not installed or render-tested",
+  "sources": [
+    {
+      "repository": "remotion-dev/skills",
+      "commit": "a2824c67f8b4585c294a8101db9f9f0ad3c643f8",
+      "license_metadata": null,
+      "skill_urls": [
+        "https://github.com/remotion-dev/skills/blob/a2824c67f8b4585c294a8101db9f9f0ad3c643f8/skills/remotion-create/SKILL.md",
+        "https://github.com/remotion-dev/skills/blob/a2824c67f8b4585c294a8101db9f9f0ad3c643f8/skills/remotion-markup/SKILL.md",
+        "https://github.com/remotion-dev/skills/blob/a2824c67f8b4585c294a8101db9f9f0ad3c643f8/skills/remotion-captions/SKILL.md",
+        "https://github.com/remotion-dev/skills/blob/a2824c67f8b4585c294a8101db9f9f0ad3c643f8/skills/remotion-render/SKILL.md"
+      ]
+    },
+    {
+      "repository": "whaleyxbt/claude-motion",
+      "commit": "e627941543d9988b155dc610bb9cc0115a5e365e",
+      "license_metadata": "MIT",
+      "skill_urls": [
+        "https://github.com/whaleyxbt/claude-motion/blob/e627941543d9988b155dc610bb9cc0115a5e365e/.claude/skills/motion-design/SKILL.md",
+        "https://github.com/whaleyxbt/claude-motion/blob/e627941543d9988b155dc610bb9cc0115a5e365e/.claude/skills/review-loop/SKILL.md",
+        "https://github.com/whaleyxbt/claude-motion/blob/e627941543d9988b155dc610bb9cc0115a5e365e/.claude/skills/sound-design/SKILL.md"
+      ]
+    },
+    {
+      "repository": "vumichien/manim-skill",
+      "commit": "70ccd68cf4dea135973f899b25fb408ddf5946c5",
+      "license_metadata": "Apache-2.0",
+      "skill_urls": [
+        "https://github.com/vumichien/manim-skill/blob/70ccd68cf4dea135973f899b25fb408ddf5946c5/skills/manim-video/SKILL.md"
+      ]
+    },
+    {
+      "repository": "heygen-com/hyperframes",
+      "commit": "336abaa80f405717b82111656f204d48bbde53b9",
+      "license_metadata": "Apache-2.0",
+      "skill_urls": [
+        "https://github.com/heygen-com/hyperframes/blob/336abaa80f405717b82111656f204d48bbde53b9/skills/hyperframes/SKILL.md",
+        "https://github.com/heygen-com/hyperframes/blob/336abaa80f405717b82111656f204d48bbde53b9/.agents/skills/motion-doctrine/SKILL.md",
+        "https://github.com/heygen-com/hyperframes/blob/336abaa80f405717b82111656f204d48bbde53b9/.agents/skills/seam-craft/SKILL.md"
+      ]
+    }
+  ]
+}
